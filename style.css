@@ -8,22 +8,23 @@ p {
   color: black;
 }
 button {
-  background-color: #881acc; /* Green */
+  font-family:'Courier New', Courier, monospace23;
+  background-color: #881acc;
   border: none;
   color: rgb(0, 0, 0);
-  padding: 15px 32px;
+  padding: 10px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border-radius: 15px;
+  border-radius: 10px;
   border: 2px solid #000000;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 button:hover{
   background-color: rgb(245, 217, 245);
   border: 2px solid #000000;
-  padding: 20px 37px;
+  padding: 20px 64px;
   display: inline-block;
   font-size: 18px;
   border-radius: 15px;
